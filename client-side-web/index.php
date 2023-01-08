@@ -25,8 +25,8 @@
         </header>
 
         <div id="main-landing-message">
-            <h1>Are you from a company or employee?</h1>
-            <h2>POST OR FIND THE MOST EXCITING STARTUP JOBS</h2>
+            <h1>POST OR FIND THE MOST EXCITING STARTUP JOBS</h1>
+            <h2>Are you from a company or employee?</h2>
             <a class="button" href="./home.php">GET STARTED</a>
         </div>
     </section>
